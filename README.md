@@ -1,22 +1,33 @@
-<h1 align="center">Hi, I'm Vikram Yellasiri 👋</h1>
+<h1 align="center">Vikram Yellasiri</h1>
 
 <p align="center">
   <b>Senior Full Stack Engineer</b> · Hyderabad, India<br/>
-  5.5+ years building cloud-native, scalable web applications
+  I build scalable systems, ship production AI, and architect cloud infrastructure that doesn't break.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikram-yellasiri-2a404413a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vikram.yellasiri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## About Me
+
+- 5.5+ years building full stack applications from scratch to production
+- Designed a **metadata-driven UI framework** powering agent orchestration at scale
+- Shipped **OCR automation pipelines** with Azure AI Builder used in enterprise workflows
+- Architected **autoscaling AWS infrastructure** with Terraform for high-traffic microservices
+- Led AI experimentation with **NExT-GPT, YOLO, and LLAMA** in real product environments
+- Currently exploring the intersection of **AI agents and cloud-native architecture**
+
+---
+
+## Tech Stack
 
 **Frontend**
 
@@ -31,6 +42,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -45,23 +57,16 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-## 💼 What I've Built
-
-- **Metadata-driven UI framework** for agent orchestration and dynamic rendering pipelines at Mobius by Gaian Solutions
-- **E-commerce platform** (Freddie's Flowers) with Next.js, Stripe subscriptions, and AWS Amplify
-- **OCR automation pipelines** using Azure AI Builder and Power Automate
-- **Autoscaling microservices infrastructure** with Terraform on AWS
-- **AI model integration** — tested and evaluated NExT-GPT, YOLO, and LLAMA in production environments
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikram5258&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikram5258&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram5258&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram5258&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram5258&theme=tokyonight&hide_border=true" />
 </p>
