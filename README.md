@@ -1,18 +1,22 @@
-<h1 align="center">Vikram Yellasiri</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Vikram%20Yellasiri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descAlignY=60&descColor=70a5fd"/>
+</div>
 
-<p align="center">
-  <b>Senior Full Stack Engineer</b> · Hyderabad, India<br/>
-  I build scalable systems, ship production AI, and architect cloud infrastructure that doesn't break.
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+5.5%2B+Years;Cloud+Architect+%7C+AWS+%26+Azure;AI+%26+OCR+Pipeline+Builder;GraphQL+%7C+Node.js+%7C+React+%7C+Next.js" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/vikram-yellasiri-2a404413a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vikram.yellasiri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=vikram5258&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS"/>
+</div>
 
 ---
 
@@ -28,6 +32,8 @@
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -59,14 +65,37 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+</div>
+
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikram5258&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vikram5258&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=vikram5258&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram5258&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=vikram5258&theme=tokyonight&hide_border=true" />
-</p>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram5258&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikram5258&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikram5258&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=100&section=footer"/>
+</div>
