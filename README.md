@@ -22,12 +22,15 @@
 
 ## About Me
 
-- 5.5+ years building full stack applications from scratch to production
+I started with Mechanical Engineering — then discovered software and never looked back.
+
+Over the last 5.5+ years I've gone from building REST APIs to architecting AI-driven frameworks, shipping OCR pipelines, and experimenting with large language models before it was mainstream. I don't stay in one lane — I go wherever the hard problems are.
+
 - Designed a **metadata-driven UI framework** powering agent orchestration at scale
 - Shipped **OCR automation pipelines** with Azure AI Builder used in enterprise workflows
 - Architected **autoscaling AWS infrastructure** with Terraform for high-traffic microservices
 - Led AI experimentation with **NExT-GPT, YOLO, and LLAMA** in real product environments
-- Currently exploring the intersection of **AI agents and cloud-native architecture**
+- Currently building my own platform and pushing deeper into **AI agents**
 
 ---
 
