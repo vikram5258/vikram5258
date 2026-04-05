@@ -68,5 +68,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram5258&layout=compact&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram5258&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=vikram5258&theme=tokyonight&hide_border=true" />
 </p>
